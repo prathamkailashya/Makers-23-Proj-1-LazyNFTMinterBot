@@ -1,0 +1,30 @@
+{
+  "name": "mintbot",
+  "version": "1.0.0",
+  "description": "dcmintbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "mint"
+  ],
+  "author": "pk",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.8",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "solc": "^0.8.19",
+    "web3": "^1.8.2"
+  }
+}
